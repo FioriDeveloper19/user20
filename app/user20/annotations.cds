@@ -5,17 +5,17 @@ annotate service.Employee with @(
         Data : [
             {
                 $Type : 'UI.DataField',
-                Label : 'id',
+                Label : 'Employee Id',
                 Value : id,
             },
             {
                 $Type : 'UI.DataField',
-                Label : 'name',
+                Label : 'Employee Name',
                 Value : name,
             },
             {
                 $Type : 'UI.DataField',
-                Label : 'Address_id',
+                Label : 'Address',
                 Value : Address_id,
             },
         ],
