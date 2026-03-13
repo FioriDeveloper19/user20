@@ -31,17 +31,17 @@ annotate service.Employee with @(
     UI.LineItem : [
         {
             $Type : 'UI.DataField',
-            Label : 'id',
+            Label : 'User ID',
             Value : id,
         },
         {
             $Type : 'UI.DataField',
-            Label : 'name',
+            Label : 'User Name',
             Value : name,
         },
         {
             $Type : 'UI.DataField',
-            Label : 'Address_id',
+            Label : 'Permanent Address',
             Value : Address_id,
         },
     ],
